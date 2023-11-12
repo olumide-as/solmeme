@@ -137,16 +137,23 @@ const Farming = () => {
                             <div>
                                 <div class="p-8 bg-zinc-950/80 shadow-xl shadow-amber-500/100 rounded">
 
-
-
-                                    <div class="mb-4 text-center">
+                                    <div class="mb-4">
                                         <p className='text-white font-jost text-left'>$MEMES Point</p>
-
-                                        <h2 className="mb-6 py-6 text-3xl text-left font-bold font-grandstander text-white leading-none tracking-tight md:text-6xl md:mx-auto">
+                                        <h3 className="mb-6 py-6 text-3xl text-left font-bold font-grandstander text-white leading-none tracking-tight md:text-5xl md:mx-auto">
                                             690 $MEMES
-                                        </h2>
+                                        </h3>
 
+                                        <div className='lg:flex gap-4'>
+                                            <p className="w-full lg:w-4/12 py-3 my-7 px-4 font-jost text-left text-white text-xl border border-white bg-gradient-to-b from-amber-500/30 to-orange-700/30  active:shadow-none rounded-full shadow ">
+                                                Referrals : 35
+                                            </p>
+
+                                            <p className="w-full lg:w-4/12 py-3 my-7 px-4 font-jost text-left text-white text-xl border border-white bg-gradient-to-b from-amber-500/30 to-orange-700/30  active:shadow-none rounded-full shadow ">
+                                                Sub - Referrals : 135
+                                            </p>
+                                        </div>
                                     </div>
+
                                     <div className=''>
                                         <ul class="mb-8 space-y-2">
                                             <li class="flex items-center">
@@ -242,7 +249,7 @@ const Farming = () => {
                                             <button
                                                 className="block py-3 my-7 px-4 font-jost text-center text-xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline"
 
-                                            >Colelct Reward</button>
+                                            >Collect Reward</button>
 
                                         </div>
 
@@ -263,7 +270,7 @@ const Farming = () => {
                                             <button
                                                 className="block py-3 my-7 px-4 font-jost text-center text-xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline"
 
-                                            >Colelct Reward</button>
+                                            >Collect Reward</button>
 
                                         </div>
 
@@ -284,7 +291,7 @@ const Farming = () => {
                                             <button
                                                 className="block py-3 my-7 px-4 font-jost text-center text-xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline"
 
-                                            >Colelct Reward</button>
+                                            >Collect Reward</button>
 
                                         </div>
 
@@ -305,7 +312,7 @@ const Farming = () => {
                                             <button
                                                 className="block py-3 my-7 px-4 font-jost text-center text-xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline"
 
-                                            >Colelct Reward</button>
+                                            >Collect Reward</button>
 
                                         </div>
 
@@ -326,7 +333,7 @@ const Farming = () => {
                                             <button
                                                 className="block py-3 my-7 px-4 font-jost text-center text-xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline"
 
-                                            >Colelct Reward</button>
+                                            >Collect Reward</button>
 
                                         </div>
 
@@ -347,7 +354,7 @@ const Farming = () => {
                                             <button
                                                 className="block py-3 my-7 px-4 font-jost text-center text-xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline"
 
-                                            >Colelct Reward</button>
+                                            >Collect Reward</button>
 
                                         </div>
                                     </div>
