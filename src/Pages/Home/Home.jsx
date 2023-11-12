@@ -22,8 +22,8 @@ const Home = () => {
               A Socio-Fi experiment built for meme lovers. A $MEM airdrop to all of #Solana coming soon.
             </p>
 
-            <div className="py-4"><a href="./twitter" className="block py-3 my-7 px-4 font-jost text-center text-xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline">
-              Twitter Task
+            <div className="py-4"><a href="./farming" className="block py-3 my-7 px-4 font-jost text-center text-2xl text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline">
+              Start Farming
             </a></div>
           </div>
 

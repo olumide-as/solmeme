@@ -1,7 +1,7 @@
 import React from 'react';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { BackTop } from 'antd';
-import {  Home, NoPage, Twitter,} from './Pages';
+import {  Home, NoPage, Farming,} from './Pages';
 import { Navbar, Footer } from './Components';
 
 
@@ -12,7 +12,7 @@ const App = () => {
       <Navbar />
       <Routes>
         <Route path='/' element={<Home/>} />
-        <Route path='/twitter' element={<Twitter/>} />
+        <Route path='/farming' element={<Farming/>} />
         <Route path="/*" element={<NoPage/>} />
       </Routes>
       <Footer/>

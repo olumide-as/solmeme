@@ -9,7 +9,7 @@ const Navbar = () => {
 
   const navigation = [
     { title: "Home", path: "../" },
-    { title: "Airdrop", path: "../#" },
+    { title: "Farming", path: "../farming" },
     { title: "Community", path: "https://twitter.com/solmeme_" },
     { title: "Get $MEM", path: "../#" },
 ]
@@ -65,7 +65,7 @@ const Navbar = () => {
 
                             <li>
                                 <a href="#0" className="block py-3 px-4 font-medium text-center text-white bg-gradient-to-b from-amber-500 to-orange-700  active:shadow-none rounded-full shadow md:inline">
-                                    Connect Wallet
+                                    Connect X account
                                 </a>
                             </li>
                         </div>
